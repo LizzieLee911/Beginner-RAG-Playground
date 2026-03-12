@@ -1,0 +1,29 @@
+﻿[
+  {
+    "record_id": "rec-001",
+    "text_id": "txt-001",
+    "record_type": "discharge_note",
+    "label": "medication",
+    "source": "ward_a",
+    "section": "assessment",
+    "text": "The patient uses basal insulin at night and requires glucose monitoring twice daily."
+  },
+  {
+    "record_id": "rec-002",
+    "text_id": "txt-002",
+    "record_type": "progress_note",
+    "label": "follow_up",
+    "source": "clinic_b",
+    "section": "plan",
+    "text": "Follow-up advice includes repeating liver function tests and checking for abdominal pain."
+  },
+  {
+    "record_id": "rec-003",
+    "text_id": "txt-003",
+    "record_type": "instruction",
+    "label": "warning",
+    "source": "clinic_b",
+    "section": "education",
+    "text": "Patients taking warfarin should review new medications carefully because of bleeding interactions."
+  }
+]

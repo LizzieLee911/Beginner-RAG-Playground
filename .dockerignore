@@ -1,0 +1,30 @@
+﻿# Local environments
+.venv/
+.conda/
+.env
+.env.local
+.env.*.local
+
+# Python cache and build output
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+pytest-cache-files-*/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local runtime files
+.tmp/
+.streamlit/secrets.toml
+*.log
+
+# VCS/editor noise
+.git/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

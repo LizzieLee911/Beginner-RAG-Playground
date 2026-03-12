@@ -1,0 +1,4 @@
+﻿record_id,text_id,record_type,label,source,section,text
+rec-101,txt-101,summary,medication,ward_c,assessment,"Metformin is continued and renal function should be checked before dose escalation."
+rec-102,txt-102,summary,diagnosis,ward_c,history,"The report mentions chronic kidney disease stage 3 and persistent fatigue."
+rec-103,txt-103,summary,follow_up,ward_d,plan,"Schedule a cardiology visit in two weeks and monitor blood pressure daily."

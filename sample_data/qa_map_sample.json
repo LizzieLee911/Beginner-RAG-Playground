@@ -1,0 +1,20 @@
+{
+  "11380492": {
+    "question": "What are common symptoms of diabetes?",
+    "answer": "Frequent urination, thirst, and fatigue are common symptoms.",
+    "label": "qa",
+    "source": "sample_faq"
+  },
+  "11380493": {
+    "question": "How is asthma usually treated?",
+    "answer": "Common treatments include inhaled bronchodilators and controller medications.",
+    "label": "qa",
+    "source": "sample_faq"
+  },
+  "11380494": {
+    "question": "What is hypertension?",
+    "answer": "Hypertension means persistently high blood pressure.",
+    "label": "definition",
+    "source": "sample_faq"
+  }
+}
