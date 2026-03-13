@@ -2,6 +2,7 @@
 
 A small local-first Streamlit app for quickly exploring RAG configs on your own files.
 
+Open this [app](https://ragpreview-apnjpxmczsssbsyxlkhiyq.streamlit.app/) and everything there
 Use it to upload a document, try different chunking and retrieval settings, inspect chunks / metadata / retrieval results, and see how the pipeline behaves before building anything more serious.
 
 ![Drag & RAG demo](images/demo_1.png)
