@@ -52,7 +52,7 @@ SAMPLE_FILES = {
 
 load_dotenv()
 
-st.set_page_config(page_title="Drag & RAG", layout="wide")
+st.set_page_config(page_title="Drag & RAG - Beginner RAG Playground", layout="wide")
 
 
 def _apply_provider_defaults(preset: str) -> None:
